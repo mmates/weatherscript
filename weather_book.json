@@ -1,1 +1,1 @@
-{"lua_integration": {"city": "London", "country": "GB", "temperature": 22.81, "humidity": 60, "pressure": 1015, "wind_speed": 2.6, "description": "clear sky"}}
+{"location1": {"city": "Bratislava", "country": "SK", "temperature": 25.43, "humidity": 34, "pressure": 1017, "wind_speed": 2.6, "description": "clear sky"}}
